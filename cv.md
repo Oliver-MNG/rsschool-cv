@@ -8,7 +8,7 @@
 ## Skills:
 ### So let's see what i have achieved during one of my laziest periods
 Physical skills          | Educational skills
------------------------- | --------------------------
+------------------------ | -------------------------
 Push-ups more than _50_ :) | Good math skills
 Running 100 meters in 11.5 sec | Really fast-learning
 Good football player | Don't stop learning something new
